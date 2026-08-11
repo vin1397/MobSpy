@@ -1,8 +1,5 @@
 # MobSpy
 
-> The original MobSpy repository was deleted because it was illegal.
+> The original MobSpy repository was taken down by GitHub because the project was illegal.
 
-
----
-
-**Status:** Deleted
+**Status:** Taken down by GitHub.
